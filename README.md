@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ala'a</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI4NTc4MjFlNjhhMmYxMDA4NmVkOGQ5NjcxYjgyOTNlZDVjMTEyMSZjdD1z/s63Jzew1dfO3j6nndV/giphy.gif" width="350"/>
+</div>
+
+
+
+
+
 - 📫 How to reach me **alaa.elomda68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
